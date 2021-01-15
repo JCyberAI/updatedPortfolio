@@ -1,1 +1,1 @@
-# updatedPortfolio
+This is my updated portfolio page, was able to create a responsive layout and 3 columns! i plan to update this in the future when i have time after graduation.
