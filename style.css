@@ -22,9 +22,19 @@ img, svg {
 
 .column {
 
-text-align: center;
-align-content: center;
+float: left;
+width: 33.33%;
+font-size: 75%;
 
 }
 
-@media screen and (min-width: 375px) {}
+
+@media screen and (max-width: 600px) {
+
+  .column {
+
+    width: 100%;
+    
+  }
+
+}
