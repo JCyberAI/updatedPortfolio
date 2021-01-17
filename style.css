@@ -11,7 +11,8 @@
   max-width: auto;
   height: auto;
   align-content: center;
-  margin-top: 406px;
+  margin-top: auto;
+  margin-bottom: auto;
 
 }
 
@@ -26,6 +27,13 @@
 img, svg {
   width: 100%;
   height: 100%;
+}
+
+.column {
+
+text-align: center;
+align-content: center;
+
 }
 
 @media screen and (min-width: 375px) {}
