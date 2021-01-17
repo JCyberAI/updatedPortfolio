@@ -1,12 +1,6 @@
-.title {
-
-  
-  text-align: center;
-
-}
-
 *{
 
+  background-color: lightpink;
   display: block;
   max-width: auto;
   height: auto;
