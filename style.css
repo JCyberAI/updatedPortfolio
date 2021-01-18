@@ -2,12 +2,9 @@
 
   max-width: auto;
   height: auto;
-  margin-top: auto;
-  margin-bottom: auto;
 
 }
 
-.container,
 .header {
 
   text-align: center;
@@ -15,7 +12,7 @@
 
 }
 
-img, svg {
+img {
   width: 100%;
   height: 100%;
 }
