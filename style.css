@@ -7,6 +7,15 @@
 
 }
 
+header {
+
+  text-align: center;
+  font-size: xx-large;
+  font-weight: 500;
+  font-family: 'Times New Roman', Times, serif;
+
+}
+
 img {
   width: 100%;
   height: 100%;
@@ -30,6 +39,7 @@ float: left;
 p {
 
   font-style: italic;
+  text-align: center;
 
 }
 
