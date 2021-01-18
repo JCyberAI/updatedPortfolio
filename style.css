@@ -1,5 +1,5 @@
 *{
-  
+  background-color: lightpink;
   max-width: auto;
   height: auto;
 
@@ -13,14 +13,13 @@ img {
 .column {
 
 float: left;
-width: 33.33%;
 
 }
 
 .row:after {
 
   content: "";
-  display: table;
+  /*display: table;*/
   clear: both;
 
 }
