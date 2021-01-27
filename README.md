@@ -2,4 +2,4 @@ This is my updated portfolio page, was able to create a responsive layout and 3 
 
 The favicon is custom made specifically standing for the header.
 
-Linkedin Profile: https://wwww.linkedin.com/in/jalyn-campbell-969924152
+Linkedin Profile: https://www.linkedin.com/in/Jalyn-Campbell
